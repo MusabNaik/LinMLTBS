@@ -5,9 +5,10 @@ A <u>L</u>inear time <u>M</u>ulti-<u>l</u>evel <u>T</u>hresholding approach for 
 This is an implementation of the method described in:
 
 ```
-Musab Naik & Luis Rueda (2020).
-Finding Binding Sites in ChIP-Seq Data via a Linear-time Multi-level Thresholding Algorithm.
-Publication pending.
+Musab Naik, Luis Rueda & Akram Vasighizaker (2021).
+Identification of Enriched Regions in ChIP-seq Data via a Linear-time Multi-level Thresholding Algorithm.
+Published in: IEEE/ACM Transactions on Computational Biology and Bioinformatics
+DOI: 10.1109/TCBB.2021.3104734 (https://ieeexplore.ieee.org/document/9514438)
 ```
 
 
@@ -136,6 +137,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 Musab Naik -  naikm@uwindsor.ca
 
 Luis Rueda - lrueda@uwindsor.ca
+
+Akram Vasighizaker - vasighi@uwindsor.ca
 
 Project Link: [https://github.com/MusabNaik/LinMLTBS](https://github.com/MusabNaik/LinMLTBS)
 
